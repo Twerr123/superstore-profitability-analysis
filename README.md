@@ -14,7 +14,8 @@ The Power BI report includes:
 - Furniture Profit by Subcategory to identify profitable and loss-making product groups
 - Furniture Profit by Discount Band to examine the relationship between discounts and profitability
 - 
-![Power BI dashboard](powerbi_superstore.png)
+Preview of the finished Power BI report
+[Power BI dashboard](powerbi_superstore.png)
 
 Key findings
 Finding	Result
@@ -46,9 +47,11 @@ Important limitation: The analysis shows an association between discount levels 
 Repository files
 File:	Purpose
 README.md	- Project background, methods, findings, and recommendation
-Superstore_Profitability_Analysis.pbix	- Power BI report 
-dashboard.png	- Preview of the finished Power BI report
+Sample 1 - Superstore.pbix Power BI report Link 
+[View Power BI Report](Sample%201%20-%20Superstore.pbix)
+  
 Excel analysis workbook - Supporting PivotTables and calculations
+[View Excel Analysis](Sample%20-%20Superstore%201.xlsx)
 
 
 How to view the report
