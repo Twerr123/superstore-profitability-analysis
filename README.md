@@ -48,10 +48,10 @@ Repository files
 File:	Purpose
 README.md	- Project background, methods, findings, and recommendation
 Sample 1 - Superstore.pbix Power BI report Link 
-[View Power BI Report](Sample%201%20-%20Superstore.pbix)
+[View Power BI Report](Superstore_Profitability_Analysis.pbix)
   
 Excel analysis workbook - Supporting PivotTables and calculations
-[View Excel Analysis](Sample%20-%20Superstore%201.xlsx)
+[View Excel Analysis](superstore.xlsx)
 
 
 How to view the report
